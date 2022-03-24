@@ -1,5 +1,5 @@
 -  Hi, I’m Ardeshir
 -  interested in learning
--  currently learning MERN Stack
+-  currently exploring MERN Stack
 
 
