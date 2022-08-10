@@ -7,7 +7,9 @@
 ### Connect with me:
 
 [![website](./globe.svg)](https://ardeshiir.io)
-[![website](./light.svg)](https://www.linkedin.com/in/ardeshir-laghai-54b10a226/)
+&nbsp;&nbsp;
+[![website](./linkedin.svg)](https://www.linkedin.com/in/ardeshir-laghai-54b10a226/)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
