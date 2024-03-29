@@ -1,7 +1,7 @@
 # Hi there, I'm Ardeshir 👋
 
-- 🌱 Extremely interested in learning 😁
-- 🥅 2023 Goals: Learn more about 3d, contribute more to open source projects.
+- 🌱 Extremely interested in learning
+- 🥅 2024 Goals: Contribute to open source projects.
 
 ### Connect with me:
 
